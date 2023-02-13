@@ -1,2 +1,5 @@
-# To-Do-list-
-To Do list app
+# To-Do-list
+Simple To Do list app
+
+### check Demo
+### 
